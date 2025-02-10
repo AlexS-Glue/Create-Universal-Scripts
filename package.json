@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "bin": {
-    "create-my-package": "./init.js"
+    "create-universal-scripts": "./init.js"
   },
   "scripts": {
     "init": "node ./scripts/init.js"
