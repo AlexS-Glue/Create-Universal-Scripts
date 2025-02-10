@@ -1,11 +1,16 @@
 {
   "name": "create-universal-scripts",
   "version": "1.0.0",
+  "type": "module",
   "bin": {
     "create-my-package": "./init.js"
   },
   "scripts": {
     "init": "node ./scripts/init.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.4.1"
+  }
 }
