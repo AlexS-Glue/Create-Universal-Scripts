@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 'use strict'
 
 // Copy the template and get everything ready for developing.
