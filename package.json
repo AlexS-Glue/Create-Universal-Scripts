@@ -1,0 +1,11 @@
+{
+  "name": "create-universal-scripts",
+  "version": "1.0.0",
+  "bin": {
+    "create-my-package": "./init.js"
+  },
+  "scripts": {
+    "init": "node ./scripts/init.js"
+  },
+  "dependencies": {}
+}
